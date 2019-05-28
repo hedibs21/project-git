@@ -1,1 +1,2 @@
-print "Hello git and the world!"
+name = input("What is your name?")
+print ("Hello ", name)
